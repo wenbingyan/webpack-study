@@ -12,3 +12,6 @@ webpack深入学习
 
 ### 1.2 CommonJS
 CommonJS 是一种广泛使用的`javascript`模块化规范，核心思想是通过`require`方法来同步地加载依赖的其他模块，通过moudle.exports到处需要暴漏的接口
+
+
+### 封装一个webpack
